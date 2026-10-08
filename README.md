@@ -424,13 +424,13 @@ CAN-Based-Engine-Monitoring-and-Vehicle-Control-System
 <tr>
 
 <td align="center">
-<img src="Window_glass_control_Node/Images/Window Node Error.png" width="420"/>
+<img src="WINDOW_NODE_CAN/Images/Window Node Error.png" width="420"/>
 <br>
 
 </td>
 
 <td align="center">
-<img src="Reverse_alert_node/Images/Reverse Node Error.png" width="420"/>
+<img src="REVERSE_ALERT_NODE_CAN/Images/Reverse Node Error.png" width="420"/>
 <br>
 
 </td>
