@@ -270,12 +270,12 @@ CAN-Based-Engine-Monitoring-and-Vehicle-Control-System
 
 <tr>
 <td align="center">
-<img src="Main_Node_CAN/Images/Main Node Initalization.png" alt="Initialization" width="420"/>
+<img src="MAIN_NODE_CAN/Images/Main Node Initalization.png" alt="Initialization" width="420"/>
 
 </td>
 
 <td align="center">
-<img src="Main_Node_CAN/Images/Main Node Normal Temp.png" alt="Normal Temperature" width="420"/>
+<img src="MAIN_NODE_CAN/Images/Main Node Normal Temp.png" alt="Normal Temperature" width="420"/>
 
 </td>
 </tr>
@@ -287,12 +287,12 @@ CAN-Based-Engine-Monitoring-and-Vehicle-Control-System
 
 <tr>
 <td align="center">
-<img src="Main_Node_CAN/Images/Main Node Warning Temp.png" alt="Warning Temperature" width="420"/>
+<img src="MAIN_NODE_CAN/Images/Main Node Warning Temp.png" alt="Warning Temperature" width="420"/>
 
 </td>
 
 <td align="center">
-<img src="Main_Node_CAN/Images/Main Node High Temp.png" alt="High Temperature" width="420"/>
+<img src="MAIN_NODE_CAN/Images/Main Node High Temp.png" alt="High Temperature" width="420"/>
 
 </td>
 </tr>
@@ -303,7 +303,7 @@ CAN-Based-Engine-Monitoring-and-Vehicle-Control-System
 
 <tr>
 <td colspan="2" align="center">
-<img src="Main_Node_CAN/Images/Main Node Warning Alert.png" alt="Critical Warning" width="520"/>
+<img src="MAIN_NODE_CAN/Images/Main Node Warning Alert.png" alt="Critical Warning" width="520"/>
 <br>
 <b>Immediate 👨‍✈️Driver Warning Screen</b>
 </td>
