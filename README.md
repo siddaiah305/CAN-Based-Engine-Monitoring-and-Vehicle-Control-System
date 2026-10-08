@@ -501,6 +501,6 @@ Continue Mode    ⏱ Timeout Counter
 
 # 👨‍💻 Author
 
-**Yeswanth Gunisetty**
+**SHABOLU SIDDAIAH**
 
-Embedded Systems | Embedded C | ARM7 | CAN | Linux Internals | DSA
+Embedded Systems | Embedded C | ARM7 | CAN | Linux Internals 
