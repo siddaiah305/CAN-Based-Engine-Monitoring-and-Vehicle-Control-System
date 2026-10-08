@@ -330,12 +330,12 @@ CAN-Based-Engine-Monitoring-and-Vehicle-Control-System
 <tr>
 
 <td align="center" valign="top">
-<img src="Window_glass_control_Node/Images/Window Alert Node Window Up Message.png" alt="Window Opening Mode" width="420"/>
+<img src="WINDOW_NODE_CAN/Images/Window Alert Node Window Up Message.png" alt="Window Opening Mode" width="420"/>
 <b>🪟 Window Opening Animation</b>
 </td>
 
 <td align="center" valign="top">
-<img src="Window_glass_control_Node/Images/Window Alert Node Window Down Message.png" alt="Window Closing Mode" width="420"/>
+<img src="WINDOW_NODE_CAN/Images/Window Alert Node Window Down Message.png" alt="Window Closing Mode" width="420"/>
 <b>🔒 Window Closing Animation</b>
 </td>
 
